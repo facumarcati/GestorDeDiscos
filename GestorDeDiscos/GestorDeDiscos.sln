@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app", "winform-app\winform-app.csproj", "{1BB620D4-3BB2-424C-8041-D03C5D2C2E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{0C7730D3-9A08-48A5-8E2D-2F0546F2CB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{E095B285-8DE0-4E97-9BB9-24FD7DD8780A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB620D4-3BB2-424C-8041-D03C5D2C2E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB620D4-3BB2-424C-8041-D03C5D2C2E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB620D4-3BB2-424C-8041-D03C5D2C2E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB620D4-3BB2-424C-8041-D03C5D2C2E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7730D3-9A08-48A5-8E2D-2F0546F2CB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7730D3-9A08-48A5-8E2D-2F0546F2CB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7730D3-9A08-48A5-8E2D-2F0546F2CB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7730D3-9A08-48A5-8E2D-2F0546F2CB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E095B285-8DE0-4E97-9BB9-24FD7DD8780A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E095B285-8DE0-4E97-9BB9-24FD7DD8780A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E095B285-8DE0-4E97-9BB9-24FD7DD8780A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E095B285-8DE0-4E97-9BB9-24FD7DD8780A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACF1153-F255-4F31-A83F-2781D1A96A76}
+	EndGlobalSection
+EndGlobal

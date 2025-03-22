@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\winform-app.exe.config
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\winform-app.exe
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\winform-app.pdb
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform_app.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-app.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-app.exe
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-app.pdb
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform-.0F641084.Up2Date
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform_app.frmDiscos.resources
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform_app.frmAgregarDisco.resources
+C:\Users\Usuario\Desktop\Curso C# 2\Aplicacion-escritorio\winform-app\obj\Debug\winform_app.frmAgregarEstiloTipoEdicion.resources
